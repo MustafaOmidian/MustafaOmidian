@@ -6,6 +6,7 @@
 <p align="center">
   🌱 I’m currently learning DevOps Skills<br/>
   🔭 I’m currently working on auto V2ray reverse search<br/>
+    💬 Ask me about Linux, Python, VoIP<br/>
 </p>
 
 <p align="center">
