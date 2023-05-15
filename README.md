@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">
-    🔭 I’m currently working on auto V2ray reverse search<br>
-    🌱 I’m currently learning Dev Ops Skills<br>
+    🔭 I’m currently working on Clinicer App<br>
+    🌱 I’m currently learning DevOps Skills<br>
     💬 Ask me about Linux, Python, VoIP
 </p>
 
