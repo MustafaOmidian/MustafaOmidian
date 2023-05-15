@@ -1,14 +1,12 @@
-<h1 align="center">Hi there, I'm Mustafa [Nic :D]</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/pub/dir/mustafa-omidian-a4b2a71a9"><img src="https://img.shields.io/badge/-LinkedIn-yellow?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+🔭 I’m currently working on auto V2ray reverse search<br>🌱 I’m currently learning Dev Ops Skills<br>💬 Ask me about Linux, Python, VoIP
 
-<p align="center">
-  🌱 I’m currently learning DevOps Skills<br/>
-  🔭 I’m currently working on auto V2ray reverse search<br/>
-    💬 Ask me about Linux, Python, VoIP<br/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://github-readme-stats.vercel.app/api?username=mustafaomidian&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mustafaomidian&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomidian&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow" alt="Python">
-</p>
+![](https://github-profile-trophy.vercel.app/?username=mustafaomidian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-contributor-stats.vercel.app/api?username=mustafaomidian&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+<img src="https://rm.up.railway.app/" width="512px"/>
