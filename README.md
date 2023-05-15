@@ -21,7 +21,7 @@
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustafaomidian&theme=matrix&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=mustafaomidian&theme=matrix&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies">
 </p>
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
