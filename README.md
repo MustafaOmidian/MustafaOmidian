@@ -13,23 +13,23 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mustafaomidian&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mustafaomidian&theme=matrix&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaomidian&theme=blueberry&hide_border=false" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaomidian&theme=matrix&hide_border=false" alt="GitHub Streak Stats">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomidian&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomidian&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustafaomidian&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=mustafaomidian&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
 <p align="center">
-    #<img src="https://github-contributor-stats.vercel.app/api?username=mustafaomidian&limit=5&theme=matrix&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    <img src="https://github-contributor-stats.vercel.app/api?username=mustafaomidian&limit=5&theme=matrix&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 ---
