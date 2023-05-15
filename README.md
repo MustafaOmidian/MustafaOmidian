@@ -29,7 +29,7 @@
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=mustafaomidian&limit=5&theme=matrix&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    #<img src="https://github-contributor-stats.vercel.app/api?username=mustafaomidian&limit=5&theme=matrix&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 ---
