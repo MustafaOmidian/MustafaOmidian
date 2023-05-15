@@ -19,7 +19,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaomidian&theme=matrix&hide_border=false" alt="GitHub Streak Stats">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomidian&theme=matrix&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomidian&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 <h1 align="center">🏆 GitHub Trophies</h1>
