@@ -24,10 +24,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mustafaomidian&theme=matrix&no-frame=True&no-bg=True&margin-w=1" alt="GitHub Trophies">
 </p>
 
-<h1 align="center">🔝 Top Contributed Repo</h1>
-<p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=mustafaomidian&limit=5&theme=matrix&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
 
 ---
 
