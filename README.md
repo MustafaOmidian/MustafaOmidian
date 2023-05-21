@@ -2,13 +2,14 @@
 <p align="center">
     🔭 I’m currently working on Clinicer App<br>
     🌱 I’m currently learning DevOps Skills<br>
-    💬 Ask me about Linux, Python, VoIP
+    💬 Ask me about Linux, Python, PHP, VoIP
 </p>
 
 <h1 align="center">💻 Tech Stack:</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black" alt="Python">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" alt="Linux">
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
