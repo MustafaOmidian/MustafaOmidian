@@ -14,7 +14,7 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mustafaomidian&theme=matrix&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mustafaomidian&theme=black&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaomidian&theme=matrix&hide_border=false" alt="GitHub Streak Stats">
