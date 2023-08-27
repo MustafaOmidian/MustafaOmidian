@@ -29,8 +29,7 @@
 ---
 
 <p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=mustafaomidian&icon=7&color=1"><img src="https://visitcount.itsvg.in/api?id=mustafaomidian&icon=7&color=1" alt="Visitor Count"></a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaomidian&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 <p align="center">
 <img src='https://elisabethwheatley.files.wordpress.com/2015/03/sheldon-sheldon-cooper-31942765-500-233.gif' width="300"></img>
 </p>
