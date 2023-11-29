@@ -2,7 +2,7 @@
 <p align="center">
     🔭 I’m currently working on 5G Core<br>
     🌱 I’m currently learning DevOps Skills<br>
-    💬 Ask me about 4G/5G Core, Linux, Python, PHP, VoIP
+    💬 Ask me about 4G/5G Core, Linux, C, VoIP
 </p>
 
 <h1 align="center">💻 Tech Stack:</h1>
